@@ -21,7 +21,7 @@
         android:layout_marginTop="93dp"
         android:layout_toRightOf="@+id/textView2"
         android:text="Repo2 Commit1" />
-
+
     <Button
         android:id="@+id/button1"
         android:layout_width="wrap_content"
@@ -29,6 +29,6 @@
         android:layout_alignBottom="@+id/textView1"
         android:layout_alignRight="@+id/textView2"
         android:layout_marginRight="65dp"
-        android:text="Development" />
+        android:text="Master 2" />
 
 </RelativeLayout>
