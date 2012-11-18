@@ -41,7 +41,7 @@
         android:layout_alignParentTop="true"
         android:layout_marginTop="22dp"
         android:text="Development branch" />
-
+
     <RadioButton
         android:id="@+id/radioButton1"
         android:layout_width="wrap_content"
@@ -49,6 +49,6 @@
         android:layout_above="@+id/textView2"
         android:layout_alignParentLeft="true"
         android:layout_marginBottom="29dp"
-        android:text="Dev2" />
+        android:text="Dev2  ch2" />
 
 </RelativeLayout>
