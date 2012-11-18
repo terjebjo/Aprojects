@@ -21,6 +21,6 @@
         android:layout_marginRight="23dp"
         android:layout_marginTop="96dp"
         android:layout_toLeftOf="@+id/textView2"
-        android:text="Commit1" />
+        android:text="Commit2" />
 
 </RelativeLayout>
