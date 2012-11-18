@@ -49,6 +49,6 @@
         android:layout_above="@+id/textView2"
         android:layout_alignParentLeft="true"
         android:layout_marginBottom="29dp"
-        android:text="Dev2" />
+        android:text="Dev2 endret på utv PC" />
 
 </RelativeLayout>
